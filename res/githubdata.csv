@@ -1,0 +1,4 @@
+orderId,game,repo,language,createdAt,repoAge,forks,watchers,stars,openIssues,closedIssues,totalIssues,IssuesOpenedLast6Months,AvgIssueCloseTime,commits,dateOfLastCommit,daysOfActivity,commitsInLast6Months,contributors,committersParticipation
+1,Darken Dinosaur,n-fridman/darken-dinosaur-game,C#,Wed Apr 21 14:28:11 BRT 2021,1387,2,2,2,0,3,3,0,0.0,115,Fri Oct 07 10:23:14 BRT 2022,533,0,1,[9; 106]
+2,Land the rocket,zereb/Rocket-GDX,Java,Tue May 18 13:09:14 BRT 2021,1360,0,0,0,0,0,0,0,0.0,2,Tue May 18 13:15:50 BRT 2021,0,0,1,[2]
+3,Disco Rhythm Duel,RuolinZheng08/renpy-rhythm,Python,Thu Mar 04 01:59:34 BRT 2021,1436,18,110,110,3,4,7,0,69.5,55,Mon Feb 26 16:23:41 BRT 2024,1089,0,1,[55]
